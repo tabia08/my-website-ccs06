@@ -1,0 +1,228 @@
+* {
+				margin: 0px;
+				font-family: Helvetica, "Helvetica Neue", Roboto, Noto, Arial, sans-serif;
+			}
+			
+			#RootWrapperDesktop1 {
+				min-height: 100vh;
+				background: linear-gradient(-180deg, rgb(48, 65, 83), rgba(57, 48, 83, 0.99), rgba(57, 48, 83, 0.91), rgba(57, 48, 83, 0.86), rgba(57, 48, 83, 0));
+				border: solid 1px black;
+				position: relative;
+			}
+			
+			#Mylogo1 {
+				width: 160px;
+				height: 160px;
+				overflow: hidden;
+				position: absolute;
+				left: 32px;
+				top: 33px;
+			}
+			
+			#Vector {
+				width: 160px;
+				height: 160px;
+				position: absolute;
+				left: 0px;
+				top: 0px;
+				right: 0px;
+				bottom: 0px;
+			}
+			
+			#Frame {
+				overflow: hidden;
+				position: absolute;
+				left: 27px;
+				top: 36px;
+				right: 27px;
+				bottom: 36px;
+			}
+			
+			#Group {
+				width: 87px;
+				height: 7px;
+				position: absolute;
+				left: 10px;
+				top: 82px;
+			}
+			
+			#Frame_0001 {
+				overflow: hidden;
+				position: absolute;
+				left: 0px;
+				top: 0px;
+				right: 0px;
+				bottom: 0px;
+			}
+			
+			#Group_0001 {
+				width: 87px;
+				height: 7px;
+				position: absolute;
+				left: 0px;
+				top: 0px;
+			}
+			
+			#Id6Izo4ZJp20 {
+				width: 87px;
+				height: 7px;
+				position: absolute;
+				left: 0px;
+				top: 0px;
+				right: 0px;
+				bottom: 0px;
+			}
+			
+			#Group_0002 {
+				width: 107px;
+				height: 22px;
+				position: absolute;
+				left: 0px;
+				top: 54px;
+			}
+			
+			#Group_0003 {
+				width: 107px;
+				height: 22px;
+				position: absolute;
+				left: 0px;
+				top: 0px;
+			}
+			
+			#IdD6Z1NYkh5 {
+				width: 107px;
+				height: 22px;
+				position: absolute;
+				left: 0px;
+				top: 0px;
+				right: 0px;
+				bottom: 0px;
+			}
+			
+			#Group_0004 {
+				width: 43px;
+				height: 43px;
+				position: absolute;
+				left: 32px;
+				top: 0px;
+			}
+			
+			#Group_0005 {
+				width: 43px;
+				height: 43px;
+				position: absolute;
+				left: -0px;
+				top: -0px;
+			}
+			
+			#Group_0006 {
+				width: 43px;
+				height: 43px;
+				position: absolute;
+				left: 0px;
+				top: 0px;
+			}
+			
+			#Vector_0001 {
+				width: 40px;
+				height: 30px;
+				position: absolute;
+				left: 1px;
+				top: 13px;
+				right: 1px;
+				bottom: -0px;
+			}
+			
+			#Vector_0002 {
+				width: 9px;
+				height: 9px;
+				position: absolute;
+				left: 33px;
+				top: 19px;
+				right: 0px;
+				bottom: 16px;
+			}
+			
+			#Vector_0003 {
+				width: 43px;
+				height: 26px;
+				position: absolute;
+				left: 0px;
+				top: 0px;
+				right: 0px;
+				bottom: 17px;
+			}
+			
+			#LiveYourLifeAsYouSeeFitSoWhenTheTimeComesYouWonTRegretAnything {
+				color: white;
+				text-overflow: ellipsis;
+				font-size: 46px;
+				font-family: "Inknut Antiqua", sans-serif;
+				font-weight: 400;
+				line-height: 90px;
+				text-align: center;
+				width: 686px;
+				min-height: 458px;
+				position: absolute;
+				left: 48px;
+				top: 318px;
+				height: 458px;
+			}
+			
+			#Rectangle1 {
+				width: 532px;
+				height: 679px;
+				background-color: white;
+				position: absolute;
+				left: 814px;
+				top: 144px;
+			}
+			
+			#Home {
+				color: white;
+				text-overflow: ellipsis;
+				font-size: 30px;
+				font-family: "Inknut Antiqua", sans-serif;
+				font-weight: 400;
+				text-align: left;
+				text-decoration: underline;
+				width: 92px;
+				position: absolute;
+				left: 240px;
+				top: 69px;
+			}
+			
+			#AboutMe {
+				color: white;
+				text-overflow: ellipsis;
+				font-size: 30px;
+				font-family: "Inknut Antiqua", sans-serif;
+				font-weight: 400;
+				text-align: left;
+				width: 164px;
+				position: absolute;
+				left: 364px;
+				top: 69px;
+			}
+			
+			#ContactMe {
+				color: white;
+				text-overflow: ellipsis;
+				font-size: 30px;
+				font-family: "Inknut Antiqua", sans-serif;
+				font-weight: 400;
+				text-align: left;
+				width: 223px;
+				position: absolute;
+				left: 538px;
+				top: 69px;
+			}
+			
+			#Rectangle {
+				width: 549px;
+				height: 722px;
+				object-fit: cover;
+				position: absolute;
+				left: 856px;
+				top: 180px;
+			}
